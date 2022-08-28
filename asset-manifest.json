@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://abdus012.github.io/csb-bl16m0/static/css/main.7ac2756f.chunk.css",
-    "main.js": "https://abdus012.github.io/csb-bl16m0/static/js/main.bb1d0eb9.chunk.js",
-    "main.js.map": "https://abdus012.github.io/csb-bl16m0/static/js/main.bb1d0eb9.chunk.js.map",
+    "main.css": "https://abdus012.github.io/csb-bl16m0/static/css/main.0d49b9c9.chunk.css",
+    "main.js": "https://abdus012.github.io/csb-bl16m0/static/js/main.3c9c1122.chunk.js",
+    "main.js.map": "https://abdus012.github.io/csb-bl16m0/static/js/main.3c9c1122.chunk.js.map",
     "runtime-main.js": "https://abdus012.github.io/csb-bl16m0/static/js/runtime-main.ed2b6df6.js",
     "runtime-main.js.map": "https://abdus012.github.io/csb-bl16m0/static/js/runtime-main.ed2b6df6.js.map",
     "static/js/2.931a71bc.chunk.js": "https://abdus012.github.io/csb-bl16m0/static/js/2.931a71bc.chunk.js",
     "static/js/2.931a71bc.chunk.js.map": "https://abdus012.github.io/csb-bl16m0/static/js/2.931a71bc.chunk.js.map",
     "index.html": "https://abdus012.github.io/csb-bl16m0/index.html",
-    "static/css/main.7ac2756f.chunk.css.map": "https://abdus012.github.io/csb-bl16m0/static/css/main.7ac2756f.chunk.css.map",
+    "static/css/main.0d49b9c9.chunk.css.map": "https://abdus012.github.io/csb-bl16m0/static/css/main.0d49b9c9.chunk.css.map",
     "static/js/2.931a71bc.chunk.js.LICENSE.txt": "https://abdus012.github.io/csb-bl16m0/static/js/2.931a71bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed2b6df6.js",
     "static/js/2.931a71bc.chunk.js",
-    "static/css/main.7ac2756f.chunk.css",
-    "static/js/main.bb1d0eb9.chunk.js"
+    "static/css/main.0d49b9c9.chunk.css",
+    "static/js/main.3c9c1122.chunk.js"
   ]
 }
